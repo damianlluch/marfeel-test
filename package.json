@@ -10,13 +10,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jordinieto/marfeel_test.git"
+    "url": "git+https://github.com/damianlluch/marfeel-test.git"
   },
   "author": "Damian Lluch",
   "bugs": {
-    "url": "https://github.com/jordinieto/marfeel_test/issues"
+    "url": "https://github.com/damianlluch/marfeel-test/issues"
   },
-  "homepage": "https://github.com/jordinieto/marfeel_test#readme",
+  "homepage": "https://github.com/damianlluch/marfeel-test#readme",
   "devDependencies": {
     "@babel/core": "^7.5.5",
     "@babel/preset-env": "^7.5.5",
