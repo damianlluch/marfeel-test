@@ -5,8 +5,8 @@
       "tabletColor": "#5fe334",
       "phoneColor": "#1e6907",
       "data": {
-        "tabletAmount": 200000,
-        "phoneAmount": 200000
+        "tabletAmount": 120000,
+        "phoneAmount": 80000
       }
     },
     {
@@ -15,8 +15,8 @@
       "tabletColor": "#27d3f2",
       "phoneColor": "#171b6e",
       "data": {
-        "tabletAmount": 3890000,
-        "phoneAmount": 15545000        
+        "tabletAmount": 20000000,
+        "phoneAmount": 30000000
       }
     },
     {
@@ -25,8 +25,8 @@
       "tabletColor": "#fcd926",
       "phoneColor": "#cc3a21",
       "data": {
-        "tabletAmount": 45678900,
-        "phoneAmount": 825467400
+        "tabletAmount": 480000000,
+        "phoneAmount": 120000000
       }
     }
   ]
